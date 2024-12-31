@@ -8,7 +8,6 @@ import UserHome from './Module/User/UserHome/UserHome';
 import UserEvents from './Module/User/UserEvents/UserEvents';
 import UserProfile from './Module/User/UserProfile/UserProfile';
 import UserHomeEvents from './Module/User/UserEvents/UserHomeEvents';
-
 import Sidebar from './Components/Sidebar/Sidebar'
 import TrainerCourse from './Module/Trainer/TrainerCourse/TrainerCourse';
 import AddLesson from './Module/Trainer/TrainerLesson/AddLesson';
