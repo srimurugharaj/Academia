@@ -1,0 +1,30 @@
+
+.courseTopBtn{
+display: flex;
+justify-content: flex-end;
+gap: 30px;
+margin: 0 10px 20px 0;
+}
+.courseTableHead {
+    background-color: rgb(230, 227, 227);
+}
+
+.viewLesson{
+    background-color: rgb(24, 175, 110);
+}
+.viewLesson:hover{
+    background-color: rgb(9, 122, 73);
+}
+
+.Addbutton{
+    background:linear-gradient(rgb(8, 8, 139),rgb(7, 7, 98));
+}
+.Updatebutton{
+    background:linear-gradient(rgb(8, 8, 139),rgb(7, 7, 98));
+}
+.Delbutton{
+    background:linear-gradient(rgb(206, 9, 9),rgb(224, 0, 30));
+}
+.course-top-btn{
+    margin-top: 20px;
+}

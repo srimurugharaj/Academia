@@ -1,0 +1,19 @@
+.sidebar{
+    flex: 0.2;
+}
+.side > hr{
+    height: 1px;
+    width: 95%;
+    border: 0;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.side{
+    width: 55px;
+    /* overflow: hidden; */
+}
+.side:hover{
+    width: 100%;
+    /* overflow: hidden; */
+}
